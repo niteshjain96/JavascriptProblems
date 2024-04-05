@@ -4,7 +4,7 @@
 ## Q-4 Fizzbuzz
 ## Q-5 Remove Duplicates
 ## Q-6 Sort Array
-## Q-7 Merge Two Sorted Arrays
+# Q-7 Merge Two Sorted Arrays
 ## Q-8 Validate Email Address
 ## Q-9 Implement Map Filter Reduce
 ## Q-10 Reverse The words maintaining the same order
