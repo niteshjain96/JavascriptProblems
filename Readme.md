@@ -13,3 +13,7 @@
 13. Partion Array into odd and even numbers
 14. Implement Debouncing
 15. Implement Throttling
+16. Longest Word in a String
+17. Hash Tag Generator
+18. Count Occurence of Characters
+19. Check Triangle Whether Equilateral , isosceles or scalene
