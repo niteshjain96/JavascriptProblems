@@ -17,3 +17,8 @@
 17. Hash Tag Generator
 18. Count Occurence of Characters
 19. Check Triangle Whether Equilateral , isosceles or scalene
+20. find maximum number in an array
+21. Factorial Finder
+22. Calculate Average of array
+23. Compare are Array are Equal
+24. Function which takes a number as input and return sum of its digits
