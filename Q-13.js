@@ -1,0 +1,22 @@
+// Partion Array into odd and even numbers
+
+function partitionOddEven(array) {
+    const oddNumbers = [];
+    const evenNumbers = [];
+
+    for (let num of array) {
+        if (num % 2 === 0) {
+            evenNumbers.push(num);
+        } else {
+            oddNumbers.push(num);
+        }
+    }
+
+    return [oddNumbers, evenNumbers];
+}
+
+// Example usage:
+const inputArray = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const [oddNumbers, evenNumbers] = partitionOddEven(inputArray);
+console.log("Odd numbers:", oddNumbers);
+console.log("Even numbers:", evenNumbers);
