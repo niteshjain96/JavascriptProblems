@@ -22,3 +22,4 @@
 22. Calculate Average of array
 23. Compare are Array are Equal
 24. Function which takes a number as input and return sum of its digits
+25. Calculate the sum of squares of all elements in an array.
