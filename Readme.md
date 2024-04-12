@@ -23,3 +23,5 @@
 23. Compare are Array are Equal
 24. Function which takes a number as input and return sum of its digits
 25. Calculate the sum of squares of all elements in an array.
+26. Write a Function to convert a string to camelCase.
+27. Write a Function to convert a string to snake_Case.
