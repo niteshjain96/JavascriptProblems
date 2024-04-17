@@ -25,3 +25,5 @@
 25. Calculate the sum of squares of all elements in an array.
 26. Write a Function to convert a string to camelCase.
 27. Write a Function to convert a string to snake_Case.
+28. Write a Function to check if a character is uppercase or lower case.
+29. Write a Function to check if a given string starts with a specific substring.

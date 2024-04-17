@@ -5,6 +5,7 @@ function snakecase(str){
     str=str.map((curElem)=>{
         return curElem.toLowerCase();
     })
+    
     return str.join('_');
 }
 
