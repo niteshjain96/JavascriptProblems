@@ -30,3 +30,4 @@
 30. Repeat A string 
 31. Truncate A String
 32. Number Range Generator
+33. Password Validation
