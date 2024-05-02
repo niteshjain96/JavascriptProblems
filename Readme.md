@@ -31,3 +31,15 @@
 31. Truncate A String
 32. Number Range Generator
 33. Password Validation
+34. Anagram
+35. Find Missing Number
+36. Count Words in String
+37. Deep Clone an Object
+38. Flatten an Array
+39. Check Prime Number
+40. Binary Search
+41. Validate Parentheses
+42. Convert Array to Objects
+43. Convert Object to Array
+44. Fibonacci
+45. 
