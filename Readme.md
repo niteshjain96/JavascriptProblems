@@ -27,3 +27,6 @@
 27. Write a Function to convert a string to snake_Case.
 28. Write a Function to check if a character is uppercase or lower case.
 29. Write a Function to check if a given string starts with a specific substring.
+30. Repeat A string 
+31. Truncate A String
+32. Number Range Generator
