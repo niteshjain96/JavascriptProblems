@@ -14,12 +14,13 @@ function sorted(arr) {
             }
         }
     }
-
     return newArr;
 }
 
 
-
+function sorted1(arr){
+    return arr.sort((a,b)=>a-b)
+}
 let arr=[34,63,65,11,22,100,53,34];
 let result=sorted(arr);
 console.log(result)
