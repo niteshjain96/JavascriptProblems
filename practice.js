@@ -1,17 +1,11 @@
-function validate(email){
-    if(email.indexOf('@')===-1){
-        return false;
+// longest word
+
+
+function longestword(str){
+    let arr=str.split(' ');
+    
+    for(let i=0;i<arr.length;i++){
+        let word=arr[i].length;
+        if(arr[i])
     }
-
-    const parts=email.split('@');
-    const localPart=parts[0];
-    const domainPart=parts[1];
-
-    if(localPart=== "" || domainPart===""){
-        return false;
-    }
-
-    const validLocalPartChars=/^[
-          
-        /;
 }

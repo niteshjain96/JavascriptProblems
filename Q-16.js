@@ -6,7 +6,6 @@ function longest1(str)
     if(str.trim().length===0){
         return false;
     }
-
     let strArr=str.split(" ");
     let resultarr='';
     for(let i=0;i<strArr.length;i++){
