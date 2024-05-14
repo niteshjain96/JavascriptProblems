@@ -15,6 +15,11 @@ function partitionOddEven(array) {
     return [oddNumbers, evenNumbers];
 }
 
+function partitionOddEven1(arr){
+    let odd=arr.filter((a)=>a%2==1);
+    let even=arr.filter((a)=>a%2==0);
+    return [odd,even];
+}
 // Example usage:
 const inputArray = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 const [oddNumbers, evenNumbers] = partitionOddEven(inputArray);

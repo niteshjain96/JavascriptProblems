@@ -1,13 +1,13 @@
 // Repeat A String
 let str="abc";
+
+
 function repeatString(str,n){
-    let resultstr='';
-
+    let result='';
     for(let i=0;i<n;i++){
-        resultstr+=str;
+        result += str;
     }
-    return resultstr;
+    return result;
 }
-
 let result=repeatString(str,5);
 console.log(result);
