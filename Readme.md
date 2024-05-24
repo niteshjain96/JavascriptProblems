@@ -42,4 +42,18 @@
 42. Convert Array to Objects
 43. Convert Object to Array
 44. Fibonacci
-45. 
+45. Image Filters using Event Delegation
+46. Check Object Emptiness
+47. Convert Object to Array and vice versa
+48. Simple Interest Calculator
+49. Number of Days Between Two Days
+50. Simple Bar Chart
+51. Extract all numbers from a string
+51. Valid Hex Color Codes
+52. Intersection of Objects
+53. Intersection of Arrays
+54. Union of Arrays
+55. Union of Objects
+56. Common Objects in an Array of Objects
+57. Rotate an array
+58. Check armstrong number
